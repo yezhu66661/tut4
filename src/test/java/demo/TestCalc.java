@@ -12,6 +12,6 @@ public class TestCalc {
     @Test
     public  void  testStruct(){
         Calc a=new Calc();
-        assertEquals(a.subtract(1,2),3);
+        assertEquals(a.subtract(1,2),-1);
     }
 }
