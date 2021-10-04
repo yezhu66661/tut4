@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="demo.TestCalc" time="0.023" tests="2" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.class.path" value="C:\tut\tut6\tutr4\target\test-classes;C:\tut\tut6\tutr4\target\classes;C:\Users\于江浩\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.5.2\junit-jupiter-engine-5.5.2.jar;C:\Users\于江浩\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\于江浩\.m2\repository\org\junit\platform\junit-platform-engine\1.5.2\junit-platform-engine-1.5.2.jar;C:\Users\于江浩\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\于江浩\.m2\repository\org\junit\platform\junit-platform-commons\1.5.2\junit-platform-commons-1.5.2.jar;C:\Users\于江浩\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.5.2\junit-jupiter-api-5.5.2.jar;C:\Users\于江浩\.m2\repository\org\projectlombok\lombok\1.18.4\lombok-1.18.4.jar;"/>
+    <property name="java.vm.vendor" value="Amazon.com Inc."/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://aws.amazon.com/corretto/"/>
+    <property name="user.timezone" value="GMT+08:00"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="C:\Users\于江浩\.jdks\corretto-1.8.0_282\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\于江浩\AppData\Local\Temp\surefire8958990487001220479\surefirebooter25494739604519408.jar C:\Users\于江浩\AppData\Local\Temp\surefire8958990487001220479 2021-10-04T20-24-52_641-jvmRun1 surefire108660137411546237tmp surefire_07040957950638022731tmp"/>
+    <property name="surefire.test.class.path" value="C:\tut\tut6\tutr4\target\test-classes;C:\tut\tut6\tutr4\target\classes;C:\Users\于江浩\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.5.2\junit-jupiter-engine-5.5.2.jar;C:\Users\于江浩\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\于江浩\.m2\repository\org\junit\platform\junit-platform-engine\1.5.2\junit-platform-engine-1.5.2.jar;C:\Users\于江浩\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\于江浩\.m2\repository\org\junit\platform\junit-platform-commons\1.5.2\junit-platform-commons-1.5.2.jar;C:\Users\于江浩\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.5.2\junit-jupiter-api-5.5.2.jar;C:\Users\于江浩\.m2\repository\org\projectlombok\lombok\1.18.4\lombok-1.18.4.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\于江浩"/>
+    <property name="user.language" value="zh"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="C:\Users\于江浩\.jdks\corretto-1.8.0_282\jre"/>
+    <property name="basedir" value="C:\tut\tut6\tutr4"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\于江浩\AppData\Local\Temp\surefire8958990487001220479\surefirebooter25494739604519408.jar"/>
+    <property name="sun.boot.class.path" value="C:\Users\于江浩\.jdks\corretto-1.8.0_282\jre\lib\resources.jar;C:\Users\于江浩\.jdks\corretto-1.8.0_282\jre\lib\rt.jar;C:\Users\于江浩\.jdks\corretto-1.8.0_282\jre\lib\sunrsasign.jar;C:\Users\于江浩\.jdks\corretto-1.8.0_282\jre\lib\jsse.jar;C:\Users\于江浩\.jdks\corretto-1.8.0_282\jre\lib\jce.jar;C:\Users\于江浩\.jdks\corretto-1.8.0_282\jre\lib\charsets.jar;C:\Users\于江浩\.jdks\corretto-1.8.0_282\jre\lib\jfr.jar;C:\Users\于江浩\.jdks\corretto-1.8.0_282\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_282-b08"/>
+    <property name="user.name" value="于江浩"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.endorsed.dirs" value="C:\Users\于江浩\.jdks\corretto-1.8.0_282\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="GBK"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\于江浩\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://github.com/corretto/corretto-8/issues/"/>
+    <property name="java.io.tmpdir" value="C:\Users\于江浩\AppData\Local\Temp\"/>
+    <property name="idea.version" value="2021.1"/>
+    <property name="java.version" value="1.8.0_282"/>
+    <property name="user.dir" value="C:\tut\tut6\tutr4"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Users\于江浩\.jdks\corretto-1.8.0_282\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\PlasticSCM5\server;C:\Program Files\PlasticSCM5\client;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Git\cmd;C:\maven\apache-maven-3.8.2\bin;C:\huawei;C:\huawei\Library\mingw-w64\bin;C:\huawei\Library\usr\bin;C:\huawei\Library\bin;C:\huawei\Scripts;C:\Users\于江浩\AppData\Local\Microsoft\WindowsApps;C:\Users\于江浩\.dotnet\tools;C:\Program Files\JetBrains\PyCharm Community Edition 2021.1\bin;;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.1\bin;;C:\modeling\Microsoft VS Code\bin;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Amazon.com Inc."/>
+    <property name="java.vm.version" value="25.282-b08"/>
+    <property name="java.ext.dirs" value="C:\Users\于江浩\.jdks\corretto-1.8.0_282\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="testAdd" classname="demo.TestCalc" time="0.014"/>
+  <testcase name="testStruct" classname="demo.TestCalc" time="0"/>
+</testsuite>
