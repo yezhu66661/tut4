@@ -7,11 +7,11 @@ public class TestCalc {
     @Test
     public void  testAdd(){
         Calc a=new Calc();
-        assertEquals(a.add(1,2),3);
+        assertEquals(a.add(2,4),6);
     }
     @Test
     public  void  testStruct(){
         Calc a=new Calc();
-        assertEquals(a.subtract(1,2),-1);
+        assertEquals(a.subtract(8,2),10);
     }
 }
